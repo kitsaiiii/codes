@@ -1,0 +1,33 @@
+D:\BV\Input Output\Colors\Colors\bin\Debug\Colors.exe
+D:\BV\Input Output\Colors\Colors\bin\Debug\Colors.pdb
+D:\BV\Input Output\Colors\Colors\bin\Debug\Colors.xml
+D:\BV\Input Output\Colors\Colors\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\BV\Input Output\Colors\Colors\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\BV\Input Output\Colors\Colors\obj\x86\Debug\Colors.vbproj.GenerateResource.Cache
+D:\BV\Input Output\Colors\Colors\obj\x86\Debug\Colors.exe
+D:\BV\Input Output\Colors\Colors\obj\x86\Debug\Colors.xml
+D:\BV\Input Output\Colors\Colors\obj\x86\Debug\Colors.pdb
+C:\Users\ACER\OneDrive\Documents\comp.programming\Comp. Prog. and Fund. visual basic commands\Colors\Colors\obj\x86\Debug\Colors.exe
+C:\Users\ACER\OneDrive\Documents\comp.programming\Comp. Prog. and Fund. visual basic commands\Colors\Colors\obj\x86\Debug\Colors.xml
+C:\Users\ACER\OneDrive\Documents\comp.programming\Comp. Prog. and Fund. visual basic commands\Colors\Colors\obj\x86\Debug\Colors.pdb
+D:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.exe
+D:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.xml
+D:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.pdb
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.exe
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.xml
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.pdb
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\bin\Debug\Colors.exe
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\bin\Debug\Colors.pdb
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\bin\Debug\Colors.xml
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.vbproj.GenerateResource.Cache
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.exe
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.xml
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.pdb
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\bin\Debug\Colors.exe
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\bin\Debug\Colors.pdb
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\bin\Debug\Colors.xml
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\Colors\Colors\obj\x86\Debug\Colors.vbproj.GenerateResource.Cache
