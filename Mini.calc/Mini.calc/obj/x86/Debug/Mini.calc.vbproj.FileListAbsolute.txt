@@ -1,0 +1,12 @@
+D:\BV\Input Output\Mini.calc\Mini.calc\bin\Debug\Mini.calc.exe
+D:\BV\Input Output\Mini.calc\Mini.calc\bin\Debug\Mini.calc.pdb
+D:\BV\Input Output\Mini.calc\Mini.calc\bin\Debug\Mini.calc.xml
+D:\BV\Input Output\Mini.calc\Mini.calc\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\BV\Input Output\Mini.calc\Mini.calc\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\BV\Input Output\Mini.calc\Mini.calc\obj\x86\Debug\Mini.calc.vbproj.GenerateResource.Cache
+D:\BV\Input Output\Mini.calc\Mini.calc\obj\x86\Debug\Mini.calc.exe
+D:\BV\Input Output\Mini.calc\Mini.calc\obj\x86\Debug\Mini.calc.xml
+D:\BV\Input Output\Mini.calc\Mini.calc\obj\x86\Debug\Mini.calc.pdb
+D:\LORSS.COMP.PROGRAMMING\comp.programming\Comp. Prog. and Fund. visual basic commands\Mini.calc\Mini.calc\obj\x86\Debug\Mini.calc.exe
+D:\LORSS.COMP.PROGRAMMING\comp.programming\Comp. Prog. and Fund. visual basic commands\Mini.calc\Mini.calc\obj\x86\Debug\Mini.calc.xml
+D:\LORSS.COMP.PROGRAMMING\comp.programming\Comp. Prog. and Fund. visual basic commands\Mini.calc\Mini.calc\obj\x86\Debug\Mini.calc.pdb

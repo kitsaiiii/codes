@@ -1,0 +1,21 @@
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Grade Compute.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Grade Compute.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\Grade Compute.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\Grades.vbproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\Grade Compute.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\Grade Compute.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\Grade Compute.pdb
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.exe
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.xml
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication4\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.pdb
+C:\Users\ACER\OneDrive\Desktop\LORSS.COMP.PROGRAMMING\comp.programming\Comp. Prog. and Fund. visual basic commands\lors1a\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.exe
+C:\Users\ACER\OneDrive\Desktop\LORSS.COMP.PROGRAMMING\comp.programming\Comp. Prog. and Fund. visual basic commands\lors1a\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.xml
+C:\Users\ACER\OneDrive\Desktop\LORSS.COMP.PROGRAMMING\comp.programming\Comp. Prog. and Fund. visual basic commands\lors1a\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.pdb
+D:\LORSS.COMP.PROGRAMMING\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.exe
+D:\LORSS.COMP.PROGRAMMING\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.xml
+D:\LORSS.COMP.PROGRAMMING\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.pdb
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.exe
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.xml
+C:\Users\RESCUER\Desktop\LORSS.COMP.PROGRAMMING\PasadongGradesPlisPlis\Pasadong Grades Pleaseee\obj\x86\Debug\Grade Compute.pdb
